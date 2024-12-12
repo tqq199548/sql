@@ -24,7 +24,7 @@ If you encounter any difficulties or have questions, please don't hesitate to re
 
 ## Section 1:
 You can start this section following *session 1*.
-
+##sd
 Steps to complete this part of the assignment:
 - Load the farmersmarket.db and browse its content
 - Create a logical data model
