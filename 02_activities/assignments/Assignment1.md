@@ -12,6 +12,8 @@
 * What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sql/pulls/<pr_id>`
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
+	
+
 Checklist:
 - [X] Create a branch called `assignment-one`.
 - [X] Ensure that the repository is public.
