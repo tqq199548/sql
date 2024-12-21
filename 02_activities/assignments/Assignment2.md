@@ -52,12 +52,12 @@ We want to create employee shifts, splitting up the day into morning and evening
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2? 
 
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
-
+![alt text](image-2.png)
 ```
 Your answer...
 Type 1 is overwrite, it will not have historical data, new address will overwrite the old; type 2 is retaining changes, you are able to see customer address old and new. 
 ```
-![alt text](image.png)
+![alt text](image-1.png)
 ***
 
 ## Section 2:
